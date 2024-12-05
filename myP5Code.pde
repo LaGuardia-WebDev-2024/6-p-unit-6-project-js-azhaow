@@ -12,6 +12,18 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+ //head
+ fill(191, 166, 112  )
+ strokeWeight(3)
+ ellipse(120,110,80,90)
+ ellipse (190,120,180,130)
+ 
+ fill(0,0,0)
+ rect(70,80,45,60)
+ 
+ 
+ 
+ 
 
   
 
