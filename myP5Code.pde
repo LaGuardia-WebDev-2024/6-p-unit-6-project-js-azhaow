@@ -14,12 +14,21 @@ void draw(){
   
  //head
  fill(191, 166, 112  )
- strokeWeight(3)
- ellipse(120,110,80,90)
- ellipse (190,120,180,130)
+ strokeWeight(3);
+ ellipse (190,120,175,115);
+ ellipse(243,83,75,70);
+ rect(100,100,100,100)
  
- fill(0,0,0)
- rect(70,80,45,60)
+ 
+fill(0,0,0);
+stroke(0,0,0)
+ rect(70,80,45,60);
+ 
+ 
+ strokeWeight(10)
+ stroke(191, 166, 112);
+ line (118,80, 250,50);
+ line (277,80,270,200)
  
  
  
