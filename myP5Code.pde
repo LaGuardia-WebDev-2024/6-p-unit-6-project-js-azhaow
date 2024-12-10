@@ -12,7 +12,29 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
- //head
+ //body
+ fill(166, 174, 169)
+ stroke (166, 174, 169)
+ rect (170,190,105,80)
+ ellipse (223,270,100,30)
+ ellipse( 260, 235,80,80)
+ strokeWeight(10)
+ line (280, 200, 315,245)
+ ellipse (294,250,40,40)
+ line (313,255,290,290)
+ ellipse(280,280,30,20)
+ 
+ //pants
+ fill
+ quad (171,276, 193,360,289,362, 300,284)
+ 
+ ellipse(195,245,90,90)
+
+
+
+
+
+//head
  
  
  fill(191, 166, 112  )
@@ -42,8 +64,7 @@ stroke(0,0,0)
  line (119,80, 250,50);
  line (277,80,270,200)
  
- //body
- 
+
  
  
  
